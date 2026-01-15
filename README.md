@@ -154,3 +154,8 @@ Otomatik güncelleme ve retraining pipeline’ı
 
 # 👤 Geliştirici
 Ahmet Sefa Ünal
+
+# 📸 BTK Sertifika-Python ile Makine Öğrenmesine Giriş
+---
+<img width="1293" height="868" alt="serss" src="https://github.com/user-attachments/assets/e5399b96-797d-40ce-84a8-131b17ecf3e4" />
+
